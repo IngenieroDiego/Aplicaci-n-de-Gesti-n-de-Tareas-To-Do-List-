@@ -47,7 +47,6 @@ body {
 
 
 
-
 /*AGREGAR TAREA*/
 
 .agregar-tarea {
@@ -101,6 +100,8 @@ body {
     color: var(--white);
     margin-bottom: 20px;
 }
+
+
 
 .seccion-tarea li {
     display: flex;
